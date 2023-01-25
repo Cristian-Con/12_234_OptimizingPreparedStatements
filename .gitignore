@@ -1,0 +1,5 @@
+# Project exclude paths
+/PeopleDB/.gradle/
+/PeopleDB/build/
+/PeopleDB/build/classes/java/main/
+/PeopleDB/build/classes/java/test/
